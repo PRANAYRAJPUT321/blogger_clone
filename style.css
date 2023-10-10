@@ -14,7 +14,7 @@
 .nav .toggle-collapse{
     position: absolute;
     top: 0%;
-    width: 90%;
+    width: 80%;
     cursor: pointer;
     display: none;
 }
